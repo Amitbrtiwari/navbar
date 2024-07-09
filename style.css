@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+}
+.navbar{
+    background-color: cadetblue;
+    border: 2px solid grey;
+    height: 5%vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    padding: 10px;
+
+
+}
+.logo img{
+    height: 50px;
+    width:50px;
+    float:left
+}
+.anchor a{
+    color: chocolate;
+    text-decoration: none;
+    
+}
